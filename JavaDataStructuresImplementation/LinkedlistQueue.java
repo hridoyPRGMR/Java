@@ -1,4 +1,4 @@
-public class linkedlistQueue{
+public class LinkedlistQueue{
 
 	static class Node{
 		int data;
