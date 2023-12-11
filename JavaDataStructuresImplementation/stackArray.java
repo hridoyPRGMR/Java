@@ -3,7 +3,7 @@ import java.util.*;
 
 
 
-public class stack {
+public class stackArray{
 
     private static int arr[];
     private static int top;
